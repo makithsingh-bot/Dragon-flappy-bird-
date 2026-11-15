@@ -377,4 +377,3 @@ def main():
     sys.exit()
 
 reset_game()
-main()
